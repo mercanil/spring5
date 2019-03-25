@@ -1,0 +1,10 @@
+spring/guru/springWeb/SpringWebApplication.class
+spring/guru/springWeb/model/Publisher.class
+spring/guru/springWeb/controller/BookController.class
+spring/guru/springWeb/model/Author.class
+spring/guru/springWeb/bootstrap/DevBootStrap.class
+spring/guru/springWeb/repository/AuthorRepository.class
+spring/guru/springWeb/repository/BookRepository.class
+spring/guru/springWeb/controller/AuthorController.class
+spring/guru/springWeb/repository/PublisherRepository.class
+spring/guru/springWeb/model/Book.class
